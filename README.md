@@ -1,2 +1,8 @@
 # UITextField-LLMaxLength
-UITextField add max length property 
+Very easy way to limit UITextField input text length.
+
+
+refer to :: https://github.com/edokeh/UITextField-MaxLength 
+
+
+
